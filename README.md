@@ -244,4 +244,4 @@ python hr_attrition_analysis.py
 
 **Pruthviraj Kadam**  
 📧 pruthvirajkadam009@gmail.com  
-🔗 [LinkedIn][https://linkedin.com/in/pruthvirajkadam] | [GitHub](https://github.com/Pruthvirajsk09)
+🔗 [LinkedIn](https://www.linkedin.com/in/pruthviraj-kadam-patil/) | [GitHub](https://github.com/Pruthvirajsk09)
