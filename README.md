@@ -1,6 +1,3 @@
-# HR-Employee-Attrition-Analysis
-
-
 # 👥 HR Employee Attrition Analysis
 
 **Tools:** SQL (MySQL) · Python · Power BI  
