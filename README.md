@@ -53,7 +53,7 @@ hr-attrition-analysis/
 ├── sql/
 │   └── hr_attrition_analysis.sql   ← 15+ SQL queries across 10 sections
 │
-├── hr_attrition_analysis.py        ← Python EDA + 6 visualizations
+├── hr_attrition_analysis.ipynb     ← Python EDA + 6 visualizations
 │
 ├── docs/
 │   ├── dashboard_overview.png      ← Python chart — Executive overview
