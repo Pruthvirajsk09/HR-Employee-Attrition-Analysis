@@ -37,7 +37,7 @@ A company is experiencing high employee turnover increasing hiring and training 
 | Overtime Impact | Overtime employees leave **1.5× more** than non-overtime |
 | Highest Risk Tenure | Employees in **first 2 years** — 36% attrition rate |
 | Satisfaction Impact | Low satisfaction employees leave **45% more** |
-| Critical Risk Group | 244 employees flagged as critical risk |
+| Critical Risk Group | 272 employees flagged as critical risk |
 | Income Gap | Attrited employees earned **$195/month less** on average |
 
 ---
@@ -208,7 +208,7 @@ CALCULATE(
 
 2. **Early Tenure Intervention** — 36% of employees in first 2 years leave. Build a structured 90-day onboarding and 1-year check-in program.
 
-3. **Proactive Risk Monitoring** — 244 critical-risk employees identified. HR should conduct quarterly stay interviews with this group.
+3. **Proactive Risk Monitoring** — 272 critical-risk employees identified. HR should conduct quarterly stay interviews with this group.
 
 4. **Compensation Review** — Employees earning below $3,000/month have significantly higher attrition. A salary band review is recommended.
 
